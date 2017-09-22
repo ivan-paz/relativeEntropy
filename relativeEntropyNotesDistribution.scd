@@ -110,7 +110,7 @@ m.noteEvents.collect({ |i| i.postln });
 //   declare the set of files
 ~files = [
 	"/pad/to/file/Bach_1080_xiv_Korsyn_only_A.mid",
-	"/pad/to/file/Bach_1080_xiv_Moroney_only_A.mid",
+	"/pad/to/file/Bach_1080_xiv_Moroney_only_A.mid"
 ];
 
 // ~relativeEntropies.value(set of files,/path/to/aprioriEntropy)
