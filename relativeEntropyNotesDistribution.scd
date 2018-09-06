@@ -17,7 +17,7 @@
 m = SimpleMIDIFile.read("/pad/to/file/Bach_1080_xiv_unfin_A.mid");
 m.noteEvents.collect({ |i| i.postln });
 );
-//    They should post what something similar to what is shown below:
+//    They should post something similar to what is shown below:
 /*
 [ 0, 0, noteOn, 0, 72, 73 ]
 [ 0, 479, noteOn, 0, 72, 0 ]
