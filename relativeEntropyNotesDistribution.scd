@@ -104,7 +104,7 @@ m.noteEvents.collect({ |i| i.postln });
 });
 
 //  USAGE:
-//  declare ~distribution, ~relativeEntropy and ~relativeEntropies function
+//  declare ~distribution, ~relativeEntropy and ~relativeEntropies functions
 
 //   Examples files from part A ( Alto voice of midi files )
 //   declare the set of files
