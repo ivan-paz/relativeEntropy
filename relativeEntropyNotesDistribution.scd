@@ -1,8 +1,10 @@
 //---------------------------------------------------------------------
 //
 //    This script contains the functions to:
+//
 // 1) calculate the probability distributions of note classes of a single voice of midi file
 //    i.e it creates a class for each pitch and counts the number of ocurrences
+//
 // 2) the relative entropy (distance or Kullback-Leibler divergence) of a set of files
 //    respect to a define apriori entropy.
 //
